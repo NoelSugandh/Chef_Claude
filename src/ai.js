@@ -53,4 +53,4 @@ export async function getRecipeFromMistral(ingredientsArr) {
   }
 }
 
-// * hiiii ////
+// * hiiii mamaaaa ////
